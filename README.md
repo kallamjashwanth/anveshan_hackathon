@@ -18,14 +18,14 @@ This project detects fraudulent job postings using machine learning. It accepts 
 - Python
 - Scikit-learn
 - Pandas
-- Matplotlib / Streamlit
+- Matplotlib 
 - Joblib
 
 ## 🚀 How to Run the Project Locally
-run the code using gogglecolab 
-u need to uplod two csv files in the gogglecolab before running
-steps : file -> uplod file -> select each csv file -> click on open
-access both csv file from the given link
+Run the code using Goggle Colab.
+You need to uplod two CSV files in the Goggle Colab before running.
+Steps : file -> uplod file -> select each csv file -> click on open.
+Access both CSV file from the given link :
 "jobs.csv" - https://drive.google.com/file/d/1PdXqLRKmAoopar97sikErz2iMqEbI_--/view?usp=sharing
 "jobs_test.csv" - https://drive.google.com/file/d/1lwoPGO1pOrMiXwn6caLM4yCkBBUbFmh8/view?usp=sharing
 
